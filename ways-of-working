@@ -21,21 +21,20 @@ Empowerment is critical – we are all able to move things forward.
 
 We will benefit from drawing on the different perspectives of the community. This means skills, experiences, backgrounds, sectors, company sizes, and cultures.
 
-
-Processes
-Onboarding
+# Processes
+##Onboarding
 
 Create an induction briefing so that new starters can get up to speed quickly. This should be updated frequently to reflect progress on the project.
 This should be made available to people to read before joining the project.
 
-Status Updates
+## Status Updates
 
 Regular up to date briefings should be created to keep people aligned and aware of progress.
 This should be made available for people to read outside of the meet up sessions.
 It should also be recapped at the start of sessions.
 
 
-Task Definition
+##Task Definition
 Tasks should be defined in such a way that they are small enough for people to complete quickly. This mitigates the risk of work getting stuck with one person and impacting the bigger picture.
 
 
@@ -49,7 +48,7 @@ Do we need a standard approach for remote sessions, e.g. Zoom, Teams, Google Mee
 Do we need guidance on Slack channels to minimise sprawl?
 What happens about cost / licensing?
 
-Behaviours
+## Behaviours
 
 We have collective ownership. Work should be carried out in such a way that others can take it forward.
 We should feel empowered, and help to empower others.
@@ -66,7 +65,7 @@ No one needs to stay in any particular group. We must be aware of the risk of pe
 We will follow good engineering practices, such as small units of work, PRs, well-documented software, and unit tests.
 
 
-Future Discussion Points / Questions
+## Future Discussion Points / Questions
 
 Who owns the IP?
 Where will documentation live?
